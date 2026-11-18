@@ -10,11 +10,14 @@ My tech stacks:
 
 AI:
 
+<div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</div>
 
 Frontend:
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, 100px);">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css" />
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript" />
@@ -22,17 +25,23 @@ Frontend:
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vite-9135FF?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vitest-00FF74?style=flat-square&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+</div>
 
 Others:
 
+<div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+</div>
 
 ## Find Me on Social Medias
 
