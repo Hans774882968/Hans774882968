@@ -1,12 +1,26 @@
-## Hi there 👋 I am Hans774882968, a passionate enthusiast of code 🔥
+## Hi there 👋 I am Hans774882968, a passionate enthusiast of code and math 🔥
 
 🌲 If we have no choice but to solve STEM puzzles, why not let them flourish in our dreams?
 
-## My tech stacks
+## My Featured Projects
 
-![Hans GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hans774882968&show_icons=true&theme=tokyonight)
+![control-flow-flattening-remove-public](https://github-stats-extended.vercel.app/api/pin/?username=Hans774882968&repo=control-flow-flattening-remove-public&theme=dark_github_repocard)
 
-![Hans Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hans774882968&layout=compact&theme=tokyonight)
+![teaching-plan-analytic-geometry](https://github-stats-extended.vercel.app/api/pin/?username=Hans774882968&repo=teaching-plan-analytic-geometry&theme=dark_github_repocard)
+
+![hans-reres](https://github-stats-extended.vercel.app/api/pin/?username=Hans774882968&repo=hans-reres&theme=dark_github_repocard)
+
+![bili-m4s-fetch-demo](https://github-stats-extended.vercel.app/api/pin/?username=Hans774882968&repo=bili-m4s-fetch-demo&theme=dark_github_repocard)
+
+## My Tech Stacks
+
+![Hans GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hans774882968&show_icons=true&theme=tokyonight)
+
+![Hans Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hans774882968&layout=compact&theme=tokyonight)
+
+### Where to Find My Mathematical Writings
+
+[hans774882968](https://blog.csdn.net/hans774882968) or [hans774882968](https://juejin.cn/user/1464964842528888) or [hans774882968](https://www.52pojie.cn/home.php?mod=space&uid=1906177) or [hans77](https://www.cnblogs.com/hans77) or [hans](https://space.bilibili.com/94869204)
 
 ### AI (I'll work harder)
 
@@ -67,11 +81,15 @@
 
 ![Hans NowCoder Profile](https://stats.justsong.cn/api/nowcoder?id=696378232&theme=onedark&lang=zh-CN)
 
-## ACM Career
+## My ACM Career
 
 I was an ACMer during my college years. Here are some of my achievements:
 
+Codeforces max rating:
+
 ![Hans Codeforces Max Rating](https://raw.githubusercontent.com/Hans774882968/cf-stats/main/output/max_rating.svg#gh-dark-mode-only)
+
+Codeforces current rating:
 
 ![Hans Codeforces Rating](https://raw.githubusercontent.com/Hans774882968/cf-stats/main/output/rating.svg#gh-dark-mode-only)
 
@@ -91,5 +109,8 @@ my b50:
 
 ## References
 
-1. https://img.shields.io for tech stack icons, [Simple Icons](https://simpleicons.org/) for tech stack logo information
-2. https://github.com/sudiptob2/cf-stats for Codeforces statistics
+1. https://github-stats-extended.vercel.app for GitHub stats ( https://github-readme-stats.vercel.app is no longer maintained)
+2. https://img.shields.io for tech stack icons, [Simple Icons](https://simpleicons.org/) for tech stack logo information (logo and brand color)
+3. https://github.com/sudiptob2/cf-stats for Codeforces statistics
+4. https://stats.justsong.cn for social media profiles
+5. [MaiMai Score Hub](https://maiscorehub.bakapiano.com) for maimai b50
