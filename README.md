@@ -2,20 +2,20 @@
 
 🌲 If we have no choice but to solve STEM puzzles, why not let them flourish in our dreams?
 
+## My tech stacks
+
 ![Hans GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hans774882968&show_icons=true&theme=tokyonight)
 
 ![Hans Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hans774882968&layout=compact&theme=tokyonight)
 
-My tech stacks:
-
-AI:
+### AI (I'll work harder)
 
 <div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </div>
 
-Frontend:
+### Frontend (Oh my youthful days)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, 100px);">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -31,16 +31,28 @@ Frontend:
 <img src="https://img.shields.io/badge/-Vite-9135FF?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/-Vitest-00FF74?style=flat-square&logo=vitest&logoColor=white" />
 <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<img src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
+<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
 </div>
 
-Others:
+### Cybersecurity
 
 <div style="display: flex; justify-content: center;">
+<img src="https://img.shields.io/badge/-Charles-000000?style=flat-square&logo=charles" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+</div>
+
+### Others
+
+<div style="display: flex; justify-content: center;">
+<img src="https://img.shields.io/badge/-Express-0A0A0A?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-KOA-33333D?style=flat-square&logo=koa&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/-WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
 </div>
 
 ## Find Me on Social Medias
